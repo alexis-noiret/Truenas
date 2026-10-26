@@ -1,5 +1,11 @@
 # 🖥️ Lab TrueNAS + Debian
 
+![TrueNAS](https://img.shields.io/badge/NAS-TrueNAS-0095D5)
+![Debian](https://img.shields.io/badge/OS-Debian-A81D33)
+![VMware](https://img.shields.io/badge/Hyperviseur-VMware-607078)
+![Project](https://img.shields.io/badge/Project-Lab%20Project-orange)
+![Storage](https://img.shields.io/badge/Focus-Stockage-green)
+
 > Mise en place d'un environnement virtualisé sous VMware : un NAS TrueNAS et une VM Debian cliente.
 
 ---
